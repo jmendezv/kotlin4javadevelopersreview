@@ -1,0 +1,46 @@
+[
+  {
+    "title": "kotlin",
+    "author": "jose",
+    "students": 1234,
+    "stars": 3,
+    "price": 211.2,
+    "categories": [
+      "programacion orientada a objetos",
+      "programacion funcional"
+    ]
+  },
+  {
+    "title": "mysql",
+    "author": "juan",
+    "students": 2315,
+    "stars": 5,
+    "price": 198.77,
+    "categories": [
+      "instalacion bds",
+      "bases de datos relacionales",
+      "acceso tablas"
+    ]
+  },
+  {
+    "title": "java",
+    "author": "eva",
+    "students": 3434,
+    "stars": 4,
+    "price": 199.2,
+    "categories": [
+      "programacion orientada a objetos"
+    ]
+  },
+  {
+    "title": "html",
+    "author": "mariana",
+    "students": 5674,
+    "stars": 4,
+    "price": 89.98,
+    "categories": [
+      "diseño web",
+      "lenguaje de marcas"
+    ]
+  }
+]

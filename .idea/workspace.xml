@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d060aade-fafe-4142-8856-14a9c2be3e2e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fichero1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gastos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ingresos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_01_introduccion/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_02_empezandoconkotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_03_conceptosbasicos/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_03_conceptosbasicos/Main2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_03_conceptosbasicos/extra/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_04_clasesyobjetos/LimiteCredito.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_04_clasesyobjetos/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_04_clasesyobjetos/Movimientos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_04_clasesyobjetos/TarjetaBancaria.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_04_clasesyobjetos/TarjetaBancariaCredito.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_04_clasesyobjetos/TarjetaBancariaDebito.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_05_funcionesylambdas/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_05_funcionesylambdas/Main2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_06_otrosaspectosimportantes/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_06_otrosaspectosimportantes/Main2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_06_otrosaspectosimportantes/Main3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_06_otrosaspectosimportantes/Main4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_06_otrosaspectosimportantes/Main5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_06_otrosaspectosimportantes/Main6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_06_otrosaspectosimportantes/Main7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_06_otrosaspectosimportantes/Main8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_06_otrosaspectosimportantes/Main9.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_07_introconcurrencia/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_07_introconcurrencia/Main2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_07_introconcurrencia/Main3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_07_introconcurrencia/Main4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_07_introconcurrencia/Main5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_07_introconcurrencia/Main6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_07_introconcurrencia/Main7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_07_introconcurrencia/Main8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_08_apendices/_08_A_scopefunctions/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_08_apendices/_08_B_io/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_08_apendices/_08_B_io/Main2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_08_apendices/_08_C_mysql/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_08_apendices/_08_D_medidadeltiempo/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_08_apendices/_08_D_medidadeltiempo/Main2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_08_apendices/_08_D_medidadeltiempo/Main3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_08_apendices/_08_D_medidadeltiempo/Main4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/edu/jmendezv/kotlin4javadevelopersreview/_08_apendices/_08_D_medidadeltiempo/Main5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutoriales1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutoriales2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutriales1.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2eSC5VV13HsFClaXDroy0AaZQ2U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.40930232",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RunManager" selected="Kotlin.Main5Kt">
+    <configuration name="Main2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.jmendezv.kotlin4javadevelopersreview._08_apendices._08_D_medidadeltiempo.Main2Kt" />
+      <module name="kotlin4javadevelopersreview" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.jmendezv.kotlin4javadevelopersreview._08_apendices._08_D_medidadeltiempo.Main3Kt" />
+      <module name="kotlin4javadevelopersreview" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.jmendezv.kotlin4javadevelopersreview._08_apendices._08_D_medidadeltiempo.Main4Kt" />
+      <module name="kotlin4javadevelopersreview" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.jmendezv.kotlin4javadevelopersreview._08_apendices._08_D_medidadeltiempo.Main5Kt" />
+      <module name="kotlin4javadevelopersreview" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.jmendezv.kotlin4javadevelopersreview._08_apendices._08_D_medidadeltiempo.MainKt" />
+      <module name="kotlin4javadevelopersreview" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.jmendezv.kotlin4javadevelopersreview._08_apendices._08_C_mysql.MainKt" />
+      <module name="kotlin4javadevelopersreview" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Main5Kt" />
+        <item itemvalue="Kotlin.Main4Kt" />
+        <item itemvalue="Kotlin.Main3Kt" />
+        <item itemvalue="Kotlin.Main2Kt" />
+        <item itemvalue="Kotlin.MainKt (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d060aade-fafe-4142-8856-14a9c2be3e2e" name="Changes" comment="" />
+      <created>1711888408626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711888408626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

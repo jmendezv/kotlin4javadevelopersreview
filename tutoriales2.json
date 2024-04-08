@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Tutorial Kotlin",
+    "author": "jose",
+    "categories": [
+      "programacion orientada a objetos",
+      "programacion funcional"
+    ]
+  },
+  {
+    "title": "Tutorial mysql",
+    "author": "juan",
+    "categories": [
+      "instalacion",
+      "bases de datos relacionales",
+      "acceso"
+    ]
+  }
+]
